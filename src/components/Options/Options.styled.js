@@ -2,10 +2,9 @@ import styled from 'styled-components';
 
 export const Button = styled.button`
   background-color: #fff;
-  height: 28px;
-  font-size: 16px;
+  height: 30px;
+  font-size: 20px;
   cursor: pointer;
-  text-transform: capitalize;
   display: flex;
 `;
 
